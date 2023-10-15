@@ -1,4 +1,4 @@
-<section class="l-about u-bg-folk-theme py-5">
+<section class="l-about u-bg-folk-theme py-5 my-4">
     
     <div class="container">
 
